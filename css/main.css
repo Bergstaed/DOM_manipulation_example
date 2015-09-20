@@ -1,0 +1,24 @@
+body {
+    background: grey;
+    color:#000000;
+}
+
+p {
+    font-size: 1.5rem;
+    border-left: 3px double white;
+    padding-left: 0.5rem;
+}
+
+.light-color {
+    color: #ffffff;
+}
+
+.col {
+    border: 1px solid #000000;
+    border-top: none;
+    padding: 0.3rem;
+    width: 20%;
+}
+.col span {
+    font-style: italic;
+}
