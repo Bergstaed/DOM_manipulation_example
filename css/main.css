@@ -22,3 +22,6 @@ p {
 .col span {
     font-style: italic;
 }
+.addedPict {
+    border-bottom: 3px solid #000000;
+}
